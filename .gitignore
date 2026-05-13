@@ -1,0 +1,24 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+server.log
+*.log
+
+# Local model downloads / variants
+hf-model-0.5B-backup/
+hf-model/
+hf-model
+FastVLM-*/
+*.safetensors
+*.bin
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
