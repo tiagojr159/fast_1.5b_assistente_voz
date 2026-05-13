@@ -165,3 +165,8 @@ If you found this model useful, please cite the following paper:
   year = {2025},
 }
 ```
+
+---
+### Project Notes
+Local chat app/UI improvements by Tiago Junior. More 
+```
